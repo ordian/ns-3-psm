@@ -25,7 +25,7 @@
  * Packet size of the UDP ping and interval between two
  * successive packets is configurable.
  * 
- * See also MeshTest::Configure to read more about configurable
+ * See also MeshModel::Configure to read more about configurable
  * parameters.
  */
 
